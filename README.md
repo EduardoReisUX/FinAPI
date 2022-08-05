@@ -13,7 +13,8 @@ Aplicativo de finanças pessoais
 - [x] buscar o extrato bancário do cliente por data
 - [x] atualizar dados da conta do cliente
 - [x] obter dados da conta do cliente
-- [] deletar uma conta
+- [x] deletar uma conta
+- [x] retornar o balance
 
 ### Regras de negócio
 
@@ -24,4 +25,4 @@ Aplicativo de finanças pessoais
 - [x] buscar extrato em uma conta não existente
 - [x] fazer saque em uma conta não existente
 - [x] fazer saque quando o saldo for insuficiente
-- [] excluir uma conta não existente
+- [x] excluir uma conta não existente
