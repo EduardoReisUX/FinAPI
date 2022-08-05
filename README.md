@@ -7,7 +7,7 @@ Aplicativo de finanças pessoais
 **Deve ser possível:**
 
 - [x] criar umma conta
-- [] buscar o extrato bancário do cliente
+- [x] buscar o extrato bancário do cliente
 - [] realizar um depósito
 - [] realizar um saque
 - [] buscar o extrato bancário do cliente por data
@@ -20,7 +20,7 @@ Aplicativo de finanças pessoais
 **Não deve ser possível:**
 
 - [x] cadastrar uma conta com CPF já existente
-- [] fazer depósito em uma conta não existente
+- [x] fazer depósito em uma conta não existente
 - [] buscar extrato em uma conta não existente
 - [] fazer saque em uma conta não existente
 - [] excluir uma conta não existente
