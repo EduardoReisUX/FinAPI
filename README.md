@@ -11,8 +11,8 @@ Aplicativo de finanças pessoais
 - [x] realizar um depósito
 - [x] realizar um saque
 - [x] buscar o extrato bancário do cliente por data
-- [] atualizar dados da conta do cliente
-- [] obter dados da conta do cliente
+- [x] atualizar dados da conta do cliente
+- [x] obter dados da conta do cliente
 - [] deletar uma conta
 
 ### Regras de negócio
