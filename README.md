@@ -10,7 +10,7 @@ Aplicativo de finanças pessoais
 - [x] buscar o extrato bancário do cliente
 - [x] realizar um depósito
 - [x] realizar um saque
-- [] buscar o extrato bancário do cliente por data
+- [x] buscar o extrato bancário do cliente por data
 - [] atualizar dados da conta do cliente
 - [] obter dados da conta do cliente
 - [] deletar uma conta
